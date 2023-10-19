@@ -36,7 +36,8 @@ Follow these steps to set up the G-Meet Clone on your local machine.
 
     ```bash
     git clone https://github.com/sahiltyagi1999/Google_Meet_Clone
-    cd g-meet-clone
+    cd Google_Meet_Clone
+    
     ```
 
 2. Install dependencies:
